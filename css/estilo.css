@@ -1,0 +1,64 @@
+#fundo{
+    background-image: url(../fotos/fundo-imagem-comida.svg);
+}
+
+#menu {
+    background-color: #3d0099;
+    height: 137px;
+    padding: 0px;
+}
+
+
+
+#corpo{
+    background-color: white;
+    box-shadow: 4px 4px 5px rgba(0,0,0,0.5);
+}
+
+
+
+.col-md-7{
+    box-shadow: -4px 4px 5px rgba(0,0,0,0.5);
+    padding-right: 0px;
+}
+
+.col-md-7:hover{
+    background-color: #5c00e6;
+    color: white;
+}
+
+#texto-botao{
+    padding: 10px;
+}
+
+
+
+
+.card{
+    box-shadow: 4px 4px 5px rgba(0,0,0,0.5);
+}
+
+#btn-menu{
+    background-color: #8533ff;
+    color: white;
+    width: 250px;
+}
+
+
+
+
+#fim{
+    background-color: #3d0099;
+    color: white;
+    height: 220px;
+    padding: 0px;
+}
+
+#logo{
+    padding-left: 35px; 
+    padding-top:35px; 
+    width:790px; 
+    height: 194px;
+}
+
+
